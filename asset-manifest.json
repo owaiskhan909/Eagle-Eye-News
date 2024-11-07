@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Eagle-Eye-News/static/css/main.31d6cfe0.css",
+    "main.js": "/Eagle-Eye-News/static/js/main.f772f8ec.js",
+    "static/js/453.08c78f33.chunk.js": "/Eagle-Eye-News/static/js/453.08c78f33.chunk.js",
+    "index.html": "/Eagle-Eye-News/index.html",
+    "main.f772f8ec.js.map": "/Eagle-Eye-News/static/js/main.f772f8ec.js.map",
+    "453.08c78f33.chunk.js.map": "/Eagle-Eye-News/static/js/453.08c78f33.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.f772f8ec.js"
+  ]
+}
